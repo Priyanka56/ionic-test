@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "wiredbrain",
   "integrations": {},
   "type": "angular",
   "id": "dfa03a78"
+=======
+  "name": "firstTest",
+  "integrations": {},
+  "type": "angular"
+>>>>>>> e126fe0847cf9dc54c88e72537ec798f32ae1595
 }

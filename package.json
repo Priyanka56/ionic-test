@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "wiredbrain",
+=======
+  "name": "firstTest",
+>>>>>>> e126fe0847cf9dc54c88e72537ec798f32ae1595
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
